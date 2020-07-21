@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Hello people
-Use the left arrow to go back!
+use the left arrow to go back!
 
 
 
